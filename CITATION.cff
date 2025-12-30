@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Numerical computation for moments and distribution of Sw and Rw in a stochastic SVI model"
+version: "1.0.0"
+date-released: 2022-12-24
+url: "https://github.com/MGamboaNZP/SVIS_Sw_Rw_Stud_Applied_Math_2022"
+
+authors:
+  - family-names: "Gamboa"
+    given-names: "M."
+    orcid: "https://orcid.org/0000-0003-1184-1115"
+  - family-names: "Lopez-Herrero"
+    given-names: "M. J."
+
+message: "If you use this software, please cite both the software and the related article listed below."
+
+references:
+  - type: article
+    authors:
+      - family-names: "Gamboa"
+        given-names: "M."
+      - family-names: "Lopez-Herrero"
+        given-names: "M."
+    title: "Measures to assess a warning vaccination level in a stochastic SIV model with imperfect vaccine"
+    journal: "Studies in Applied Mathematics"
+    volume: "148"
+    issue: "4"
+    pages: "1411-1438"
+    year: 2022
+    doi: "10.1111/sapm.12479"
