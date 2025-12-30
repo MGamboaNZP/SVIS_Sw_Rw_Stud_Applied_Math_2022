@@ -13,7 +13,7 @@ in the **stochastic SVI (Susceptible–Vaccinated–Infected)** epidemic model w
 > Studies in Applied Mathematics, 148(4), 1411–1438.  
 > https://doi.org/10.1111/sapm.12479
 
-## Zenodo doi: https://doi.org/10.5281/zenodo.18093320
+> **Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18093320
 
 The algorithms implemented here reproduce the numerical procedures described in the paper and extend them with **stable, vectorized and parallelized** routines for large population sizes.
 
