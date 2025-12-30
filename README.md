@@ -15,22 +15,16 @@ in the **stochastic SVI (Susceptible–Vaccinated–Infected)** epidemic model w
 
 > **Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18093320
 
-The algorithms implemented here reproduce the numerical procedures described in the paper and extend them with **stable, vectorized and parallelized** routines for large population sizes.
+The algorithms implemented here reproduce the numerical procedures described in the paper and extend them with routines for large population sizes.
 
 ---
 
 ## 🚀 Features
 
-- Computation of the **distribution of \(S_w\)** for arbitrary warning levels \(w\)
-- Computation of the **distribution of \(R_w\)** (if included in your repo)
-- Stable numerical implementation using:
-  - log‑space arithmetic  
-  - vectorized operations  
-  - optional parallelization (`parfor`)
+- Computation of the **distribution of \(S_w\)** 
+- Computation of the **distribution of \(R_w\)** 
 - Reproducible MATLAB scripts corresponding to the published results
-- Ready-to-use code for large-scale simulations (e.g., \(N = 500\), \(v_0 = 480\))
+- Ready-to-use code for large-scale simulations 
 
 ---
-
-## 📂 Repository structure
 
